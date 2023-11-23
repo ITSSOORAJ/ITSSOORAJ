@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SOORAJ KUMAR S</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img allign="bottom" alt="SKS GROUPS"  width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
+<img allign="right" alt="SKS GROUPS"  width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itssooraj&label=Profile%20views&color=0e75b6&style=flat" alt="itssooraj" /> </p>
 
