@@ -39,3 +39,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itssooraj&show_icons=true&locale=en" alt="itssooraj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itssooraj&" alt="itssooraj" /></p>
+
+###REFUND POLICY
+<p>At [Your Company Name], we strive to provide the best services to our customers. However, due to the nature of our bookings and reservations, we have established the following refund policy:
+
+No Refunds: All payments made for our services are non-refundable. This includes, but is not limited to, booking fees, deposits, and any other associated charges.</p>
