@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN,DEEPLEARNING**
 
-- 💬 Ask me about **html,css,c,java,os,**
+- 💬 Ask me about **html,css,c,java,os,mern,Adobe Analytics,Google analytics**
 
 - 📫 How to reach me **soorajksss136@gmail.com**
 
